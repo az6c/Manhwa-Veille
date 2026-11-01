@@ -66,10 +66,10 @@ Windows app that tracks your manhwa on Comix.to and notifies you the moment a ne
 
 | ⭐ Stars | 🎁 Update |
 |---|---|
-| **10** | 🐛 Bug-fix release + vos premiers retours |
-| **50** | 🎨 New themes + notification options |
-| **100** | 🚀 Major update: new feature chosen by the community |
-| **250** | 🌐 More languages |
+| **50** | 🐛 Bug-fix release + vos premiers retours |
+| **150** | 🎨 New themes + notification options |
+| **250** | 🚀 Major update: new feature chosen by the community |
+| **350** | 🌐 More languages |
 | **500** | 🔄 Auto-update inside the app |
 | **1000** | 🏆 Big v2.0 + support for more sites |
 
